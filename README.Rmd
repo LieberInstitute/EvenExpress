@@ -25,7 +25,7 @@ knitr::opts_chunk$set(
 [![Bioc last commit](https://bioconductor.org/shields/lastcommit/devel/bioc/TREG.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/TREG/)
 [![Bioc dependencies](https://bioconductor.org/shields/dependencies/release/TREG.svg)](https://bioconductor.org/packages/release/bioc/html/TREG.html#since)
 [![Codecov test coverage](https://codecov.io/gh/LieberInstitute/TREG/branch/devel/graph/badge.svg)](https://codecov.io/gh/LieberInstitute/TREG?branch=devel)
-[![R build status](https://github.com/LieberInstitute/TREG/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/LieberInstitute/TREG/actions)
+[![R build status](https://github.com/LieberInstitute/TREG/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/LieberInstitute/TREG/actions/workflows/check-bioc.yml)
 [![GitHub issues](https://img.shields.io/github/issues/LieberInstitute/TREG)](https://github.com/LieberInstitute/TREG/issues)
 [![GitHub pulls](https://img.shields.io/github/issues-pr/LieberInstitute/TREG)](https://github.com/LieberInstitute/TREG/pulls)
 [![DOI](https://zenodo.org/badge/391101988.svg)](https://zenodo.org/badge/latestdoi/391101988)

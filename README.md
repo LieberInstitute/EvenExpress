@@ -24,7 +24,7 @@ dependencies](https://bioconductor.org/shields/dependencies/release/TREG.svg)](h
 [![Codecov test
 coverage](https://codecov.io/gh/LieberInstitute/TREG/branch/devel/graph/badge.svg)](https://codecov.io/gh/LieberInstitute/TREG?branch=devel)
 [![R build
-status](https://github.com/LieberInstitute/TREG/workflows/R-CMD-check-bioc/badge.svg)](https://github.com/LieberInstitute/TREG/actions)
+status](https://github.com/LieberInstitute/TREG/actions/workflows/check-bioc.yml/badge.svg)](https://github.com/LieberInstitute/TREG/actions/workflows/check-bioc.yml)
 [![GitHub
 issues](https://img.shields.io/github/issues/LieberInstitute/TREG)](https://github.com/LieberInstitute/TREG/issues)
 [![GitHub
